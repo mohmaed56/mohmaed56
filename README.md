@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hey 👋  
+## Hey 👋 
 
 Je m’appelle Mohamed, passionné par la data et l’intelligence artificielle.  
 Je travaille principalement sur des projets d’analyse de données et de machine learning avec Python et SQL.
